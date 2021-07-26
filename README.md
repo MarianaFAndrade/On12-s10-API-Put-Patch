@@ -5,7 +5,7 @@ Demandas de negócio
 - Rota principal pra visualizar a apresentação do projeto [ok]
 - Visualizar todas as receitas [ok]
 - Visualizar as receitas por nome [ok]
-- Vsualizar as receitas por id [ok]
+- Vsualizar as receitas por porção [ok]
 - Adicionar uma nova receita [ok]
 - Alterar os dados de uma receita [ok]
 - Atualizar o nome de uma receita [ok] 
